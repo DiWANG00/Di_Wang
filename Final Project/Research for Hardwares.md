@@ -1,6 +1,6 @@
 [Light sensor TSL2591 tutorial on Adafruit](https://learn.adafruit.com/adafruit-tsl2591/wiring-and-test)
 
-[BOLD]04/08 Update:
+04/08 Update:
 All the hardware in place.
 
 PWN Pins for arduino nano board is the same as uno. Trying to figure out how to fade the light bulbs.
