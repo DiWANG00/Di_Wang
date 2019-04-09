@@ -10,3 +10,5 @@ Supplys and materials that are potentially helpful:
 -diffusion paper;
 -grip store on Harrison St.;
 -Lighting supplies/ Stage consumables
+
+[Transistor that is compatible for 12 volts LEDs](https://www.youtube.com/watch?v=sVyi7yWuXxs)
